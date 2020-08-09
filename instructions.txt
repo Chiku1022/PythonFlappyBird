@@ -1,0 +1,9 @@
+This is a Flappy Bird clone made in Python using the Pygame module.
+I had made this game totally without using a computer. I had coded each and everything on my Android phone.
+
+For best experience, run this game on your Android phone!.
+1. Install 'Pydroid3' from Google Play Store.
+2. Place this complete folder somewhere on your device.
+3. Make sure that 'main.py' is on the same location as 'gallery' folder.
+4. Open 'Pydroid3' and open 'main.py'.
+5. Enjoy!
