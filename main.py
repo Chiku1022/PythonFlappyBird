@@ -3,6 +3,7 @@
 #       PyFlappy Bird
 #       Made by "Charitra Agarwal"
 #       "www.youtube.com/c/EverythingComputerized"
+#       "www.linkedin.com/in/chiku1022/"
 
 
 
